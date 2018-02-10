@@ -6,7 +6,7 @@
 //		後面為題庫設定檔檔名
 //
 menu_items = new Array(
-  "一上 第一課,monster_set_simple.js"
+  "一上 第一課,monster_set_lesson1.js"
 ,  "心緒類語詞:初級篇,monster_set_basic.js"
 , "心緒類語詞:高級篇,monster_set_advance.js"
 );
